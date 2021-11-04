@@ -48,5 +48,13 @@ spring.datasource.password=root
 
 Se realizaron endpoints con Postman se puede descargar en el siguiente enlace https://www.postman.com/downloads/, 
 como podemos observar en las imágenes se realizan funciones de prueba demostrando el funcionamiento de la API.
+![postman](https://user-images.githubusercontent.com/13261573/140293696-23e78321-6b96-42db-8257-c49455f7b6c5.PNG)
+![postman-2](https://user-images.githubusercontent.com/13261573/140293688-aefbdc77-9847-472f-97f8-c1ac6f6dcbb1.PNG)
+![postman-3](https://user-images.githubusercontent.com/13261573/140293691-a7da990b-824e-4a0f-b234-3d7930b37ffe.PNG)
+
+# Mysql
+em Mysql podemos obserbar que los datos ingresados mediante Postman se guardan directamente en la base de datos.
+![mysql](https://user-images.githubusercontent.com/13261573/140293693-77f1d913-34b5-471b-bf08-c64bbe0cccbc.PNG)
+![mysql 2](https://user-images.githubusercontent.com/13261573/140293695-8cd0acd5-6a26-4c57-ac13-8c99d56ca62b.PNG)
 
 
